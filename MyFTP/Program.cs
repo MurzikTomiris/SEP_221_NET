@@ -12,7 +12,7 @@ namespace MyFTP
         {
             // FTP считается не безопасным и сейчас рездко используется
             //порт 21
-            //nuget пакет FluentFTP сайт dlptest.com
+            //nuget пакет FluentFTP сайт https://dlptest.com/ftp-test/
             //FTP.DownloadFile();
             //FTP.UploadFile();
             //FTP.DownloadFileMyFTP();
