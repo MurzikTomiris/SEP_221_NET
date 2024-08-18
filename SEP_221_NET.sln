@@ -21,6 +21,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MySMTP", "MySMTP\MySMTP.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzSFTP", "DzSFTP\DzSFTP.csproj", "{C9C2BB46-864B-46AE-A5D7-ECC7C78439DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzFTP", "DzFTP\DzFTP.csproj", "{AEF704C8-F5F1-47C2-9FD5-EAF208C68DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DzHTTP", "DzHTTP\DzHTTP.csproj", "{AFE843F5-FBCE-4E20-AC9C-29D58D87A0AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +67,14 @@ Global
 		{C9C2BB46-864B-46AE-A5D7-ECC7C78439DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9C2BB46-864B-46AE-A5D7-ECC7C78439DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9C2BB46-864B-46AE-A5D7-ECC7C78439DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF704C8-F5F1-47C2-9FD5-EAF208C68DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF704C8-F5F1-47C2-9FD5-EAF208C68DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF704C8-F5F1-47C2-9FD5-EAF208C68DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF704C8-F5F1-47C2-9FD5-EAF208C68DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFE843F5-FBCE-4E20-AC9C-29D58D87A0AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE843F5-FBCE-4E20-AC9C-29D58D87A0AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE843F5-FBCE-4E20-AC9C-29D58D87A0AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE843F5-FBCE-4E20-AC9C-29D58D87A0AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
